@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/defect.png</file>
+        <file>icon/endtime.png</file>
+        <file>icon/heatmap.png</file>
+        <file>icon/image.png</file>
+        <file>icon/open.png</file>
+        <file>icon/productlevel.png</file>
+        <file>icon/search.png</file>
+        <file>icon/starttime.png</file>
+        <file>icon/stat.png</file>
+        <file>icon/404.png</file>
+    </qresource>
+</RCC>
