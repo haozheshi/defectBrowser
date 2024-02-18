@@ -62,7 +62,6 @@ qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
-INCLUDEPATH += C:/Users/13903/Documents/Project/vs/inspectdb/inspectdb/
 RESOURCES += \
     icon.qrc
 CONFIG(debug, debug|release){
